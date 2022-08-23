@@ -3225,6 +3225,10 @@ enum PageId {
     // CATEGORY: SETTINGS
     // OS: S
     SETTINGS_BUTTON_NAV_DLG = 1907;
+
+    // OPEN: Settings > Display > Status bar lyric
+    // CATEGORY: SETTINGS
+    STATUS_BAR_LYRIC = 3000;
 }
 
 // Battery Saver schedule types.
